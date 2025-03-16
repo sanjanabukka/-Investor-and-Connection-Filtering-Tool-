@@ -1,0 +1,21 @@
+.loginContainer {
+    max-width: 480px !important ;
+    background-color: black;
+
+    margin-top: 8rem;
+    color:white;
+}
+
+.logot {
+    width: 70%;
+    margin-bottom: 10%;
+}
+
+.loginButton {
+    background-color: #39C463 !important;
+    border: 1px solid #39C463 !important;
+}
+
+.loginButton:hover {
+    background-color: #309f51 !important;
+}

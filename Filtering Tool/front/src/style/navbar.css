@@ -1,0 +1,35 @@
+.navbarC {
+    box-shadow: 1px 1px 5px 1px rgb(45, 45, 45);
+    background-color: black;
+    min-height: 7rem;
+}
+
+.linkImg{
+    max-width: 30%;
+}
+.linkImg img {
+    max-width: 50%;
+    min-width: 150px;
+}
+
+.whiteText {
+    margin-left: 10px;
+    color: white !important;
+    font-size: 1.4rem !important;
+    transition: 1s !important;
+}
+
+.whiteText:hover {
+    color: whitesmoke !important;
+    border-radius: 23px !important;
+    background-color: #39C463 !important;
+    transition: 1s !important;
+}
+
+.nav {
+}
+
+.toggle {
+    background-color: rgb(18, 18, 18) !important;
+    border-color:black !important;
+}

@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    width: 100%;
+    background-color: black;
+}
